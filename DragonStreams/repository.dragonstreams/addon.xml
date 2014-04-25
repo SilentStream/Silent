@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.cashews" name="All Addons by cashews" version="1.6" provider-name="cashews">
+<addon id="repository.cashews" name="00101010010101" version="1.6" provider-name="cashews">
 	<extension point="xbmc.addon.repository" name="DragonStreams">
-		<info compressed="false">http://bitbucket.org/Cashews/cashews-repository/raw/master/addons.xml</info>
-		<checksum>http://bitbucket.org/cashews/cashews-repository/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://bitbucket.org/cashews/cashews-repository/raw/master/zips</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/SilentStream/Silent/master/DragonStreams/addons.xml</info>
+		<datadir zip="true">https://raw.githubusercontent.com/SilentStream/Silent/master/DragonStreams/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repo</summary>
